@@ -1,4 +1,4 @@
-THE STRATEGY PATTERN
+STRATEGY PATTERN
 
 This Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 
